@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaitanyaa
 - 👀 I’m interested in c++,Python,Aws
-- 🌱 I’m currently learning C++,java
+- 🌱 I’m currently learning C++,java,python
 - 💞️ I’m looking to collaborate on Aws
 
 <!---
